@@ -1,0 +1,7 @@
+integration-repo
+ivy-cache
+project/out
+project/*/target
+project/*/bin
+project/*/build
+project/.metadata
