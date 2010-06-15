@@ -4,18 +4,10 @@ Bundle-Version: 1.0.0
 Bundle-Name: Open Spring 3 MVC 1
 Import-Bundle: com.springsource.javax.servlet;version="[2.5.0,2.5.0]",
  com.springsource.server.web.dm;version="[2.0.0.RELEASE,2.0.0.RELEASE]",
- com.springsource.javax.validation;version="[1.0.0.GA,1.0.0.GA]",
- com.springsource.org.hibernate.validator;version="[4.0.0.GA,4.0.0.GA]",
- com.springsource.org.apache.commons.beanutils;version="[1.8.0,1.8.0]",
  com.springsource.javax.servlet.jsp.jstl;version="[1.1.2,1.1.2]",
  com.springsource.org.apache.taglibs.standard;version="[1.1.2,1.1.2]",
- org.displaytag;version="[1.2.0,1.2.0]",
  com.springsource.org.apache.commons.lang;version="[2.4.0,2.4.0]",
- com.springsource.javax.servlet.jsp;version="[2.1.0,2.1.0]",
- com.springsource.org.codehaus.jackson;version="[1.0.0,1.0.0]";scope:=application,
- com.springsource.org.codehaus.jackson.mapper;version="[1.0.0,1.0.0]";scope:=application,
- com.springsource.org.hibernate;version="[3.3.1.GA,3.3.1.GA]",
- com.springsource.bsh;version="[2.0.0.b4,2.0.0.b4]"
+ com.springsource.javax.servlet.jsp;version="[2.1.0,2.1.0]"
 Web-ContextPath: /
-Import-Library: org.springframework.spring;version="[3.0.0.RELEASE,3.0.0.RELEASE]"
+Import-Library: org.springframework.spring;version="[3.0.2.RELEASE,3.0.2.RELEASE]"
 
